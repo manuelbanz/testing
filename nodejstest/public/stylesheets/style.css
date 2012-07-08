@@ -3,9 +3,17 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 p {
-  color: #00b7ff;
+  color: #00b71f;
   border: 1px solid black;
 }
 a {
-  color: #00b7ff;
+  color: #00b71f;
+}
+#testdiv,
+#testdiv2 {
+  padding: 20px;
+  margin: 20px;
+  float: left;
+  width: 200px;
+  border: 1px solid #ff0000;
 }
